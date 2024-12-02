@@ -1091,7 +1091,7 @@ GEM
       rake (>= 0.8.7)
       thor (>= 0.18.1, < 2.0)
     rainbow (3.0.0)
-    rake (12.3.2)
+    rake (12.3.3)
     ransack (2.1.1)
       actionpack (>= 5.0)
       activerecord (>= 5.0)
@@ -1247,7 +1247,7 @@ GEM
       addressable (>= 2.3.6)
       crack (>= 0.3.2)
       hashdiff
-    webpacker (3.4.3)
+    webpacker (4.0.7)
       activesupport (>= 4.2)
       rack-proxy (>= 0.6.1)
       railties (>= 4.2)
@@ -1347,7 +1347,7 @@ DEPENDENCIES
   web-console (~> 3.1.0)
   webdrivers (~> 4.0)
   webmock (~> 3.5.1)
-  webpacker (~> 3.4.1)
+  webpacker (~> 4.0.7)
 
 RUBY VERSION
    ruby 2.6.2p47
