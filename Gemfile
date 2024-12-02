@@ -110,7 +110,7 @@ gem 'smartystreets_ruby_sdk', github: 'hwhelchel/smartystreets-ruby-sdk', branch
 gem 'stripe', '~> 3.15.0'
 gem 'stripe_event', '~> 2.2.0'
 gem 'twemoji', '~> 3.1.4'
-gem 'twilio-ruby', '~> 4.13.0'
+gem 'twilio-ruby', '~> 5.25.3'
 gem 'webpacker', '~> 3.4.1'
 
 source 'https://rails-assets.org' do
