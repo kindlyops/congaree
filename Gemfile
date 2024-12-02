@@ -23,7 +23,7 @@ gem 'oj'
 gem 'lograge'
 
 group :development, :test, :demo do
-  gem 'factory_girl_rails', '~> 4.0'
+  gem 'factory_girl_rails', '~> 4.9'
   gem 'faker', '~> 1.6.0'
 end
 
